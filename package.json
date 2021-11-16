@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "star": "nodemon -r esm app.js"
+    "start": "nodemon -r esm app.js"
   },
   "keywords": [],
   "author": "",
